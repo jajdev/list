@@ -2,7 +2,7 @@ package com.jennings.test;
 
 import com.jennings.ds.SLL_Impl;
 
-public class SLL_Test {
+public class SLL_ImplTest {
 	private static long stopwatch;
 	private static long timer;
 
