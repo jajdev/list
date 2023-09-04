@@ -2,7 +2,7 @@ package com.jennings.ds.SingleLinkedList;
 
 import java.util.HashSet;
 
-public class SLL_Impl {
+public class SLL_Impl implements SLL {
 	MyNode head;
 	int length;
 
